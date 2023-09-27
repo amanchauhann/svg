@@ -1,0 +1,21 @@
+.GameCardName{
+    margin-bottom: 20px;
+}
+
+.fontWeight{
+    font-weight: 500;
+}
+
+.myGamesContainer{
+    border: 1px solid grey;
+    padding: 1rem;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.5);
+}
+
+.myGamesContainer p{
+    margin: 10px 0;
+}
+
+.myGamesContainer button{
+    margin: 0 10px 0 0;
+}

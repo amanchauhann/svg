@@ -1,0 +1,10 @@
+.navigation{
+    background-color: var(--primary-color);
+    padding: 1rem 5rem;
+    text-align: right;
+    font-size: 18px;
+}
+
+.navigation a{
+    color: white;
+}
